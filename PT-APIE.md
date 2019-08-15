@@ -1,9 +1,9 @@
 # **PowerTools API Emulator**
 #### **Christian Contreras | Dell PowerTools Intern**
 ---
-#
-#
-#
+
+
+
 ## Introduction
 ##### **Use PowerTools API Emulator (PT-APIE) to emulate instances of PowerTools Agent (PTAgent) on virtual hosts.**
 ---
